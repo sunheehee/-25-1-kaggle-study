@@ -29,7 +29,7 @@
 ![alt text](<image/평가데이터.png>)
 
 ### 결과
-![alt text](<KNN 작동 결과.png>)
+![alt text](<image/KNN 작동 결과.png>)
 
 ✔️ K=1이라면, 가장 가까운 값 1개의 특성으로 분류 → Red
 
@@ -83,6 +83,7 @@ train score와 test score가 균형을 이루는 지점
  
  * K=6인 부분은 train데이터와 test데이터의 성능이 함께 낮아지는 구간 → 과소적합(Underfitting) 
 
+---
 
 # Confusion Matrix
 모델의 분류 결과를 실제 값과 비교해서 무엇을 얼마나 맞췄고, 무엇을 틀렸는지를 정리해서 보여주는 표
